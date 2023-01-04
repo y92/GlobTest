@@ -21,7 +21,7 @@ Expliquez, en quelques lignes, ce que fait cette fonction.
 
 ### Question 2
 
-Codez cette fonction.
+Codez cette fonction (idéalement en CLI) en utilisant le langage PHP ou JavaScript.
 Merci de fournir un fichier contenant :
 
 - la fonction, 
