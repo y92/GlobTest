@@ -19,6 +19,8 @@ Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait 
 
 Expliquez, en quelques lignes, ce que fait cette fonction.
 
+==> Cette fonction prend en argument un tableau d'intervalles (représentés par des tableau de deux entiers) et renvoie un nouveau tableau contenant toutes les réunions d'intervalles possibles. La fonction trie d'abord le tableau en entrée dans l'ordre croissant des minimums puis des maximums. La fonction parcourt ensuite le tableau trié et unit tous les intervalles qui se chevauchent.
+
 ### Question 2
 
 Codez cette fonction (idéalement en CLI) en utilisant le langage PHP ou JavaScript.
@@ -28,9 +30,13 @@ Merci de fournir un fichier contenant :
 - l'appel de la fonction, avec un jeu de test en entrée,
 - l'affichage du résultat en sortie.
 
+==> voir fichiers | Foo.php | et | fooTest.php |
+
 ### Question 3
 
 Précisez en combien de temps vous avez implémenté cette fonction.
+
+==> 2h environ (en comptant les fonctions intermédiaires et les tests)
 
 ## Merci
 
