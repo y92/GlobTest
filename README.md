@@ -19,7 +19,7 @@ Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait 
 
 Expliquez, en quelques lignes, ce que fait cette fonction.
 
-* *Cette fonction prend en argument un tableau d'intervalles (représentés par des tableau de deux entiers) et renvoie un nouveau tableau contenant toutes les réunions d'intervalles possibles. La fonction trie d'abord le tableau en entrée dans l'ordre croissant des minimums puis des maximums. La fonction parcourt ensuite le tableau trié et unit tous les intervalles qui se chevauchent.*
+* *Cette fonction prend en argument un tableau d'intervalles (représentés par des tableaux de deux entiers) et renvoie un nouveau tableau contenant toutes les réunions d'intervalles possibles. La fonction trie d'abord le tableau en entrée dans l'ordre croissant des minimums puis des maximums. La fonction parcourt ensuite le tableau trié et unit tous les intervalles qui se chevauchent.*
 
 ### Question 2
 

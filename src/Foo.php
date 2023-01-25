@@ -119,7 +119,7 @@ final class Foo {
     }
 
     /**
-     * Prend en argument un tableau d'intervalles (représentés par des tableau de deux entiers) et renvoie un nouveau tableau contenant toutes les réunions 
+     * Prend en argument un tableau d'intervalles (représentés par des tableaux de deux entiers) et renvoie un nouveau tableau contenant toutes les réunions 
      * d'intervalles possibles. La fonction trie d'abord le tableau en entrée dans l'ordre croissant des minimums puis des maximums. La fonction parcourt ensuite 
      * le tableau trié et unit tous les intervalles qui se chevauchent.
      * @param intervals le tableau d'intervalle à traiter
