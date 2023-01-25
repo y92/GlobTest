@@ -30,7 +30,7 @@ Merci de fournir un fichier contenant :
 - l'appel de la fonction, avec un jeu de test en entrée,
 - l'affichage du résultat en sortie.
 
-* *Voir fichiers « Foo.php » et « fooTest.php »*
+* *Voir fichiers* Foo.php » *et* fooTest.php
 
 ### Question 3
 
